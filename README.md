@@ -23,7 +23,7 @@ First, we need to install MSCOCO dataset,VGGNet19 model, Python and TensorFlow. 
 
 
 ```bash
-$ git clone https://github.com/CynthiaXing/show-attend-and-tell.git
+$ git clone https://github.com/CynthiaXing/Image-Caption-Generation-System.git
 $ git clone https://github.com/tylin/coco-caption.git
 ```
 
